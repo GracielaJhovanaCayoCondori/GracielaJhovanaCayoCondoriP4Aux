@@ -1,9 +1,6 @@
 "use strict";
 
 // La solucion de la pregunta 2 va aqui
-"use strict";
-
-// La solucion de la pregunta 2 va aqui
 //PARTE 1
 // 1. Escribe una función asíncrona 'loadNPause' que recree la pregunta 1, esta vez
 // usando async / await (solo la parte donde se consume la promesa, reutilice la
